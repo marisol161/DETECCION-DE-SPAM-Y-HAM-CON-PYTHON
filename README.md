@@ -1,2 +1,2 @@
-# DETECCION-DE-SPAM-Y-HAM-CON-PYTHON
-Implementación de inteligencia artificial para detectar correos Spam y Ham
+# Correos-Electronicos-SPAM-Y-HAM-machinelearning
+es un trabajo sobre la deteccin de correos spam y ham en lenguaje python usando una maquina virtual en machin learning y jupiternotebook
